@@ -80,6 +80,7 @@
 .link {
   color: #ffffff;
   cursor: pointer;
+  font-size: 24px;
   font-style: normal;
   transition: 0.3s;
   font-family: Karla;

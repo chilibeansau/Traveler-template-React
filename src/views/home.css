@@ -1143,10 +1143,21 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-description {
+.home-text32 {
   color: #000000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home-description {
+  color: rgb(0, 0, 0);
   font-size: 18px;
   max-width: 800px;
+  line-height: 27px;
+}
+.home-text35 {
+  color: #000000;
+  font-size: 18px;
   line-height: 27px;
 }
 .home-icon-container {
@@ -1181,10 +1192,21 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-description1 {
+.home-text37 {
   color: #000000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home-description1 {
+  color: rgb(0, 0, 0);
   font-size: 18px;
   max-width: 800px;
+  line-height: 27px;
+}
+.home-text40 {
+  color: #000000;
+  font-size: 18px;
   line-height: 27px;
 }
 .home-icon-container1 {
@@ -1219,10 +1241,21 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-description2 {
+.home-text43 {
   color: #000000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home-description2 {
+  color: rgb(0, 0, 0);
   font-size: 18px;
   max-width: 800px;
+  line-height: 27px;
+}
+.home-text45 {
+  color: #000000;
+  font-size: 18px;
   line-height: 27px;
 }
 .home-icon-container2 {
@@ -1257,10 +1290,21 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-description3 {
+.home-text47 {
   color: #000000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home-description3 {
+  color: rgb(0, 0, 0);
   font-size: 18px;
   max-width: 800px;
+  line-height: 27px;
+}
+.home-text50 {
+  color: #000000;
+  font-size: 18px;
   line-height: 27px;
 }
 .home-icon-container3 {
@@ -1546,7 +1590,17 @@
   .home-header08 {
     font-size: 16px;
   }
+  .home-text31 {
+    font-size: 16px;
+  }
+  .home-text33 {
+    font-size: 16px;
+  }
   .home-description {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text34 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -1556,7 +1610,21 @@
   .home-header09 {
     font-size: 16px;
   }
+  .home-text36 {
+    font-size: 16px;
+  }
+  .home-text38 {
+    font-size: 16px;
+  }
   .home-description1 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text39 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text41 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -1566,7 +1634,14 @@
   .home-header10 {
     font-size: 16px;
   }
+  .home-text42 {
+    font-size: 16px;
+  }
   .home-description2 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text44 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -1576,7 +1651,21 @@
   .home-header11 {
     font-size: 16px;
   }
+  .home-text46 {
+    font-size: 16px;
+  }
+  .home-text48 {
+    font-size: 16px;
+  }
   .home-description3 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text49 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text51 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -1916,28 +2005,73 @@
   .home-header08 {
     font-size: 16px;
   }
+  .home-text31 {
+    font-size: 16px;
+  }
+  .home-text33 {
+    font-size: 16px;
+  }
   .home-description {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text34 {
     font-size: 14px;
     line-height: 21px;
   }
   .home-header09 {
     font-size: 16px;
   }
+  .home-text36 {
+    font-size: 16px;
+  }
+  .home-text38 {
+    font-size: 16px;
+  }
   .home-description1 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text39 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text41 {
     font-size: 14px;
     line-height: 21px;
   }
   .home-header10 {
     font-size: 16px;
   }
+  .home-text42 {
+    font-size: 16px;
+  }
   .home-description2 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text44 {
     font-size: 14px;
     line-height: 21px;
   }
   .home-header11 {
     font-size: 16px;
   }
+  .home-text46 {
+    font-size: 16px;
+  }
+  .home-text48 {
+    font-size: 16px;
+  }
   .home-description3 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text49 {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text51 {
     font-size: 14px;
     line-height: 21px;
   }

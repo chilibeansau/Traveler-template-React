@@ -186,10 +186,7 @@ const Home = (props) => {
               <br></br>
             </p>
             <p className="home-caption02">
-              <span>
-                We are dedicated to providing top-quality care for your furry
-                friends.
-              </span>
+              <span>We strive to ensure their well-being and happiness.</span>
               <br className="home-text14"></br>
               <br></br>
             </p>
@@ -569,16 +566,21 @@ const Home = (props) => {
             >
               <div className="home-content07">
                 <span className="home-header08">
-                  Lorem ipsum dolor sit ametetur elit?
+                  <span className="home-text31">
+                    How do I book a dog walking service?
+                  </span>
+                  <br className="home-text32"></br>
+                  <br className="home-text33"></br>
                 </span>
                 <span
                   data-role="accordion-content"
                   className="home-description"
                 >
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                  <span className="home-text34">
+                    Visit chilibeans.com.au and fill out the booking form, or
+                    call us at 0450 471 170 to schedule a dog walking session.
+                  </span>
+                  <span className="home-text35"></span>
                 </span>
               </div>
               <div className="home-icon-container">
@@ -604,17 +606,22 @@ const Home = (props) => {
             >
               <div className="home-content08">
                 <span className="home-header09">
-                  Excepteur sint occaecat cupidatat non sunt in culpa qui
-                  officia deserunt mollit anim id est laborum?
+                  <span className="home-text36">
+                    What areas do you cover for dog walking services?
+                  </span>
+                  <br className="home-text37"></br>
+                  <br className="home-text38"></br>
                 </span>
                 <span
                   data-role="accordion-content"
                   className="home-description1"
                 >
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                  <span className="home-text39">
+                    We offer dog walking services in Inner West Sydney and
+                    surrounding suburbs.
+                  </span>
+                  <br className="home-text40"></br>
+                  <br className="home-text41"></br>
                 </span>
               </div>
               <div className="home-icon-container1">
@@ -640,17 +647,22 @@ const Home = (props) => {
             >
               <div className="home-content09">
                 <span className="home-header10">
-                  Tempor incididunt ut labore et dolore magna aliquat enim ad
-                  minim?
+                  <span className="home-text42">
+                    Do you provide special packages for long-term pet care
+                    services?
+                  </span>
+                  <span className="home-text43"></span>
                 </span>
                 <span
                   data-role="accordion-content"
                   className="home-description2"
                 >
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                  <span className="home-text44">
+                    Yes, we offer customized packages for pet sitting, home
+                    stays, and pet feeding services based on your specific needs
+                    and the duration of your absence.
+                  </span>
+                  <span className="home-text45"></span>
                 </span>
               </div>
               <div className="home-icon-container2">
@@ -676,16 +688,22 @@ const Home = (props) => {
             >
               <div className="home-content10">
                 <span className="home-header11">
-                  Lorem ipsum dolor sit ametetur elit?
+                  <span className="home-text46">
+                    How do I book a dog wash &amp; grooming appointment?
+                  </span>
+                  <br className="home-text47"></br>
+                  <br className="home-text48"></br>
                 </span>
                 <span
                   data-role="accordion-content"
                   className="home-description3"
                 >
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                  <span className="home-text49">
+                    To schedule a dog wash &amp; grooming appointment, contact
+                    Jess at 416 027 096 and inquiry about her availability.
+                  </span>
+                  <br className="home-text50"></br>
+                  <br className="home-text51"></br>
                 </span>
               </div>
               <div className="home-icon-container3">
